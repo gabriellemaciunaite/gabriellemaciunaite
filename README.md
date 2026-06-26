@@ -3,10 +3,10 @@
 <h2>Hi, I'm Gabrielle <img src="/assets/wave.gif" style="vertical-align: middle; margin-bottom: 4px; width: 50px"/></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielle-maciunaite/" target="_blank"><img alt="Website" width="35px" src="/assets/web.png" /></a>
-  <a href="https://www.linkedin.com/in/gabrielle-maciunaite/" target="_blank"><img alt="LinkedIn" width="35px" src="/assets/linkedin.png" /></a>
-  <a href="https://instagram.com/gabriellemaciunaite" target="_blank"><img alt="Instagram" width="35px" src="/assets/instagram.png" /></a>
-  <a href="https://github.com/gabriellemaciunaite" target="_blank"><img alt="Github" width="35px" src="/assets/github.png" /></a>
+  <a href="https://www.linkedin.com/in/gabrielle-maciunaite/" target="_blank"><img alt="Website" width="35px" src="/assets/web.svg" /></a>
+  <a href="https://www.linkedin.com/in/gabrielle-maciunaite/" target="_blank"><img alt="LinkedIn" width="35px" src="/assets/linkedin.svg" /></a>
+  <a href="https://instagram.com/gabriellemaciunaite" target="_blank"><img alt="Instagram" width="35px" src="/assets/instagram.svg" /></a>
+  <a href="https://github.com/gabriellemaciunaite" target="_blank"><img alt="Github" width="35px" src="/assets/github.svg" /></a>
 </p>
 
 </div>
