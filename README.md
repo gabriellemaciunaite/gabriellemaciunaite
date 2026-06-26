@@ -1,12 +1,12 @@
 <div align="center">
 
-<h2>Hi, I'm Gabrielle <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyM3E5bW5nZjkzODJtNjR1Z2czNGwxbDg4YjhnZDJvbjRrbzk0YTJmMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hDSGolpaNZTK9OQJqk/200.gif" style="vertical-align: middle; margin-bottom: 4px; width: 50px"/></h2>
+<h2>Hi, I'm Gabrielle <img src="/assets/wave.gif" style="vertical-align: middle; margin-bottom: 4px; width: 50px"/></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielle-maciunaite/" target="_blank"><img alt="Website" width="30px" src="https://iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-globe-6.png" /></a>
-  <a href="https://www.linkedin.com/in/gabrielle-maciunaite/" target="_blank"><img alt="LinkedIn" width="30px" src="https://iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png" /></a>
-  <a href="https://instagram.com/gabriellemaciunaite" target="_blank"><img alt="Instagram" width="30px" src="https://iconmonstr.com/wp-content/releases/preview/2016/240/iconmonstr-instagram-13.png" /></a>
-  <a href="https://github.com/gabriellemaciunaite" target="_blank"><img alt="Github" width="30px" src="https://iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-3.png" /></a>
+  <a href="https://www.linkedin.com/in/gabrielle-maciunaite/" target="_blank"><img alt="Website" width="35px" src="/assets/web.png" /></a>
+  <a href="https://www.linkedin.com/in/gabrielle-maciunaite/" target="_blank"><img alt="LinkedIn" width="35px" src="/assets/linkedin.png" /></a>
+  <a href="https://instagram.com/gabriellemaciunaite" target="_blank"><img alt="Instagram" width="35px" src="/assets/instagram.png" /></a>
+  <a href="https://github.com/gabriellemaciunaite" target="_blank"><img alt="Github" width="35px" src="/assets/github.png" /></a>
 </p>
 
 </div>
