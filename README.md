@@ -22,4 +22,4 @@
   > Any featured projects will be listed here. Currently working on my first one: stay tuned! 🔔
 
 ---
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gabriellemaciunaite&theme=transparent&show_icons=true&hide=prs,)"></div>
+<div align="center"> <img src="https://github-readme-stats-anfa.vercel.app/api?username=gabriellemaciunaite&theme=transparent&show_icons=true&hide=prs,)"></div>
