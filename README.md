@@ -19,7 +19,8 @@
 ---
 
 ### 🔨 Projects
-  > Any featured projects will be listed here. Currently working on my first one: stay tuned! 🔔
+  > * [Social Geospatial & Running Platform (Flask, PostgreSQL, Python)](https://github.com/gabriellemaciunaite/running-app)     ⚠️**WIP**⚠️
+> * [Multiplayer Scrabble Application (Lua, Defold)](https://github.com/gabriellemaciunaite/scrabble-NEA)
 
 ---
-<div align="center"> <img src="https://github-readme-stats-anfa.vercel.app/api?username=gabriellemaciunaite&theme=transparent&show_icons=true&hide=prs,&cache_seconds=14400)"></div>
+<div align="center"> <img src="https://github-readme-stats-anfa.vercel.app/api?username=gabriellemaciunaite&theme=transparent&show_icons=true&hide=prs,&cache_seconds=14)"></div>
